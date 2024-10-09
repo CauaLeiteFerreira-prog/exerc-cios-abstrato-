@@ -1,0 +1,14 @@
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\bin\Debug\net8.0\exercicios-4.exe
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\bin\Debug\net8.0\exercicios-4.deps.json
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\bin\Debug\net8.0\exercicios-4.runtimeconfig.json
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\bin\Debug\net8.0\exercicios-4.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\bin\Debug\net8.0\exercicios-4.pdb
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\obj\Debug\net8.0\exercicios-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\obj\Debug\net8.0\exercicios-4.AssemblyInfoInputs.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\obj\Debug\net8.0\exercicios-4.AssemblyInfo.cs
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\obj\Debug\net8.0\exercicios-4.csproj.CoreCompileInputs.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\obj\Debug\net8.0\exercicios-4.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\obj\Debug\net8.0\refint\exercicios-4.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\obj\Debug\net8.0\exercicios-4.pdb
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\obj\Debug\net8.0\exercicios-4.genruntimeconfig.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Abstracao\exercicios-4\exercicios-4\obj\Debug\net8.0\ref\exercicios-4.dll
